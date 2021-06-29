@@ -3,13 +3,12 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#ffffff"
-    android:id="@+id/linearLayout">
+    android:background="#ffffff">
 
     <TextView
         android:layout_width="50dp"
         android:layout_height="match_parent"
-        android:text=""
+        android:text="1."
         android:id="@+id/verseNumber"
         android:gravity="center_horizontal"
         android:textColor="#000000"
@@ -18,7 +17,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
-        android:text=""
+        android:text="Ceux qui me disent: Seigneur, Seigneur ! n’entreront pas tous dans le royaume des cieux, mais celui-là seul qui fait la volonté de mon Père qui est dans les cieux."
         android:id="@+id/textView"
         android:paddingRight="20dp"
         android:textColor="#000000"
